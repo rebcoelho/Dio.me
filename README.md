@@ -1,4 +1,4 @@
-# Dio.me - PLanilha investimento
+# Dio.me - Planilha investimento
 
 
 # 📊 Simulador de Investimentos em Fundos Imobiliários (FIIs)
